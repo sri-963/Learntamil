@@ -1,4 +1,4 @@
-const CACHE = 'learntamil-v2';
+const CACHE = 'learntamil-v3';
 const ASSETS = [
   './index.html',
   './manifest.webmanifest',
