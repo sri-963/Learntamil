@@ -580,7 +580,7 @@
     if (!state.traceGuide) return;
 
     ctx.save();
-    ctx.globalAlpha = 0.35;
+    ctx.globalAlpha = 0.45;
     ctx.fillStyle = '#2a1a10';
     var size = Math.round(Math.min(traceView.w, traceView.h) * 0.62);
     ctx.font = '600 ' + size + 'px "Noto Sans Tamil","Latha",system-ui,sans-serif';
